@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/1200x/54/cf/01/54cf012dbb20a2cd75b30c0fdf58ecc7.jpg)
+![Banner](https://i.pinimg.com/1200x/71/35/8f/71358f95886817d07b8136a37f473472.jpg)
 
 # 👋 Hi, I'm SHINO
 
