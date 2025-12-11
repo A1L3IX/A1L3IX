@@ -1,16 +1,27 @@
-## Hi there 👋
+![Banner](https://i.pinimg.com/736x/b3/65/af/b365af02734efdf8cea73f0eff2f8920.jpg)
 
-<!--
-**A1L3IX/A1L3IX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm SHINO
 
-Here are some ideas to get you started:
+I'm a **full-stack game developer** passionate about creating immersive interactive experiences. I combine creativity and code to bring virtual worlds to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies
+
+- **Languages:** C#, JavaScript, TypeScript, Java, HTML, CSS, Python  
+- **Engines:** Unity, Unreal Engine  
+- **Design:** Photoshop, Krita
+- **WEB** Angular
+- **Databases** MySQL
+
+## 💻 Featured Projects
+
+**IN PROGRESS**
+
+## 📫 Contact
+
+- [Instagram](https://www.instagram.com/aaleixx__/)  
+- [Discord](https://discord.gg/akTRvgaEFg)  
+- [Email](rodrialeix4@gmail.com)
+
+---
+
+> Striving for excellence in every line of code ⚡
